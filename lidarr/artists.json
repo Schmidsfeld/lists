@@ -1,0 +1,36 @@
+{
+  "artists": [
+    {
+      "name": "Camila Cabello",
+      "foreignArtistId": "04abdbb6-7d05-4f5a-9c55-8f2c8e2210f4"
+    },
+    {
+      "name": "A Great Big World",
+      "foreignArtistId": "2b81cc28-f77a-4e9d-8353-3f20f07f3c1d"
+    },
+    {
+      "name": "Lauren Spencer Smith",
+      "foreignArtistId": "b6b75271-3e28-46f5-9559-3e5f4c648f8d"
+    },
+    {
+      "name": "Emeli Sandé",
+      "foreignArtistId": "b672f03e-f3aa-4c82-bc29-fc90566f03ed"
+    },
+    {
+      "name": "Tate McRae",
+      "foreignArtistId": "68967599-3f3b-45a0-b705-1b1d1aee0f46"
+    },
+    {
+      "name": "Rag'n'Bone Man",
+      "foreignArtistId": "404b2ff7-6aa7-4420-961e-534f6b5d0b78"
+    },
+    {
+      "name": "Birdy",
+      "foreignArtistId": "cc2c9c3c-b7bc-4b8b-84d8-4fbd8779e493"
+    },
+    {
+      "name": "George Ezra",
+      "foreignArtistId": "63137d6d-3cdb-4f80-8286-43443cbe5899"
+    }
+  ]
+}
